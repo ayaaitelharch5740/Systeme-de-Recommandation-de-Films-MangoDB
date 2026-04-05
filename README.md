@@ -5,10 +5,10 @@ Elle utilise **FastAPI** pour le backend, **MongoDB** pour la base de données, 
 
 > 📸 *Captures d'écran du projet :*
 
-![Page d'accueil](screenshots/accueil.png)
-![Page Profil](screenshots/profil.png)
-![Recommandations](screenshots/recommandations.png)
-![Panneau Admin](screenshots/admin.png)
+<img width="935" height="439" alt="accueil" src="https://github.com/user-attachments/assets/013bb867-8976-4800-aa21-d760d5ce6995" />
+<img width="948" height="384" alt="profil" src="https://github.com/user-attachments/assets/a842ad75-37f5-4b55-9029-fe83e53bd3c8" />
+<img width="923" height="445" alt="recommandations" src="https://github.com/user-attachments/assets/483f1ced-76de-4060-8eb4-9c0712774633" />
+<img width="937" height="367" alt="admin" src="https://github.com/user-attachments/assets/5a2aeacf-3e98-499c-a8f0-563016b9ce81" />
 
 ---
 
