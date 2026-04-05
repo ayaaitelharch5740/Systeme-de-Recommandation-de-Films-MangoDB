@@ -53,7 +53,7 @@ sudo systemctl start mongod
 ### 4. Importer les données MovieLens
 
 Téléchargez le dataset MovieLens depuis :
-👉 https://grouplens.org/datasets/movielens/25m/
+👉 hhttps://www.kaggle.com/datasets/grouplens/movielens-20m-dataset?utm_source=chatgpt.com&select=tag.csv
 
 Placez les fichiers CSV dans le dossier du projet :
 - `movie.csv`
